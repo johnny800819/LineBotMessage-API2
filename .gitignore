@@ -3,10 +3,11 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
-# Ignore log files
+# 自定義文件
 Logs/
-image/
 **/*.log
+新年圖文選單模板A.lbd
+新年圖文選單模板A.png
 
 # dotenv files
 .env
